@@ -1,1 +1,1 @@
-Testing config for git and retest
+Testing config for git
