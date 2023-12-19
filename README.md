@@ -1,1 +1,1 @@
-Testing config for git
+Testing config for git, changed name
